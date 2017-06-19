@@ -1,0 +1,7 @@
+{
+    "restartable": "rs",
+    "colours": true,
+    "watch": ["./build", "./routes", "./services"],
+    "ignoreRoot": [".git", "node_modules"],
+    "stdout": true
+}
