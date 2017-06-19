@@ -1,11 +1,3 @@
-# qcs_wap
-
-> 量康顾问端 微信版
-# 开发log 
-
-### 2017/05/21 顾问端项目初始化。
-
-
 ## Build
 ### develop env
     1. npm/cnpm install
